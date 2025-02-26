@@ -1,11 +1,5 @@
 ## Hi there 👋
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
+
 <!--
 **kolomok/kolomok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://count.getloli.com/@kolomok?name=kolomok&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=123456780
