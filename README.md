@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![:kolomok](https://count.getloli.com/@:kolomok)
 https://count.getloli.com/@:minecraft
-<img src="https://count.getloli.com/@:minecraft" alt=":name" />
+<img src="https://count.getloli.com/@:minecraft" alt="minecraft" />
