@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![:minecraft](https://count.getloli.com/@:kolomok)
+![:minecraft](https://count.getloli.com/@:minecraft)
