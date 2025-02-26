@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://count.getloli.com/@kolomok?name=kolomok&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=123456780
+https://count.getloli.com/@:kolomok
+<img src="https://count.getloli.com/@:minecraft" alt=":name" /
+![:kolomok](https://count.getloli.com/@:kolomok)
