@@ -10,6 +10,8 @@
   <img src="https://github.com/user-attachments/assets/01d47067-c711-4beb-8d78-660388a60c32" width="40px"/>
   <img src="https://github.com/user-attachments/assets/1e2db87e-1fb7-4d25-9324-97825c5c85df" width="40px"/>
   <img src="https://github.com/user-attachments/assets/6cdc8cfd-5742-4744-95be-e9f3584cd7f1" width="40px"/>
+  <img src="[https://github.com/user-attachments/assets/6cdc8cfd-5742-4744-95be-e9f3584cd7f1](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png)" width="40px"/>
+  
 </div>
 <div>
   <img src="https://github.com/user-attachments/assets/390725df-dbb8-4c03-9b9e-aac14c707ef8" width="40px"/>
